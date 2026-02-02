@@ -84,3 +84,15 @@ a {
   font-family: monospace;
 
 }
+
+<style>
+    #code {
+        color: #000000 !important; /* Mengubah teks puisi menjadi hitam */
+    }
+    .say {
+        color: #000000 !important; /* Memastikan setiap baris pesan berwarna hitam */
+    }
+    #clock-box {
+        color: #000000 !important; /* Mengubah teks jam/waktu menjadi hitam */
+    }
+</style>
